@@ -139,7 +139,7 @@ ARP (Address Resolution Protocol) is useful to view / add the contents of the ke
 
 ## Configuration
 
-### ifconfi|iwconfig
+### ifconfig | iwconfig
 
 This command is used to configure network interfaces, or to display their current configuration. In addition to activating and deactivating interfaces with the “up” and “down” settings, this command is necessary for setting an interface's address information if you don't have the ifcfg script.
 
